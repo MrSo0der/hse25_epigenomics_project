@@ -37,7 +37,7 @@ Google Colab блокноты:
 4. [bedtools](https://colab.research.google.com/drive/1K8OY5qqhlR4Dsw9iTOAgLB8VGBwOUCuO)
 5. [hmmer](https://colab.research.google.com/drive/18saY3XlbIXNdY5ERdYPE0IjowzwGfwI2)
 
-Использовалась [модифицированная версия zhunt](/zhunt.c) со встроенной фильтраций по zscore 400 (строчки 589-591).
+Использовалась [модифицированная версия zhunt](/zhunt3.c) со встроенной фильтраций по zscore 400 (строчки 589-591).
 
 С помощью HHMMERa были найдены гены, соответствующие приведённым семействам:
 
